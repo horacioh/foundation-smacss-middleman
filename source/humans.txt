@@ -1,0 +1,14 @@
+/* Foundation was made by ZURB, an interaction design and design strategy firm in Campbell, CA */
+/* zurb.com */
+
+/* Foundation-SMACSS Middleman template was made by Horacio Herrera, Freelance Designer/Developer guy in Barcleona, Spain */
+/* hherrerag.com */
+
+/* This template is based on the Foundation Middleman Template made by Travis Vocino, ui/ux designer and startup guy in San Francisco, CA - vocino.com - kudos! */
+
+/* humanstxt.org */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Orbit, Reveal, SMACSS Principle
+  Software: Coda 2, Git
