@@ -8,8 +8,8 @@ This project template has been updated to support Foundation 4.
 
 Clone into ~/.middleman (you'll have to create this directory if it's not already there). You can then use it with the `--template` flag on `middleman init`.
 
-1. $ `git clone git://github.com/hhg2288/foundation-smacss-middleman.git ~/.middleman/foundation-smacss`
-2. $ `middleman init my_new_project --template=foundation-smacss`
+1. `$ git clone git://github.com/hhg2288/foundation-smacss-middleman.git ~/.middleman/foundation-smacss`
+2. `$ middleman init my_new_project --template=foundation-smacss`
 
 This template is based on the [Foundation Middleman Template](http://github.com/vocino/middleman-foundation) made by [Travis Vocino](http://vocino.com), ui/ux designer and startup guy in San Francisco, CA (kudos!) and inspired by Jonathan Snook's [SMACSS](http://smacss.com) ideas & book
 
