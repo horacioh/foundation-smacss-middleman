@@ -13,6 +13,6 @@ gem "zurb-foundation"
 gem "susy", "~>1.0.5"
 gem "redcarpet"
 
-gem 'haml', "< 4.0"
+gem 'haml', "< 6.0"
 
 gem 'coffee-filter' # Coffeescript filter for HAML
